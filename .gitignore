@@ -1,0 +1,18 @@
+
+# Java
+backend/target/
+*.class
+
+# React
+node_modules/
+frontend/node_modules/
+frontend-app/node_modules/
+frontend-app/dist/
+frontend/dist/
+
+# Environment files
+.env
+.env.local
+
+# VS Code
+.vscode/
